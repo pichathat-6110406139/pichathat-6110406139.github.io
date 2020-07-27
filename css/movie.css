@@ -1,6 +1,6 @@
-.red-text{
+.yellow-text{
     padding: 2.4em;
-    color: red;
+    color:yellowgreen;
 }
 .background-image {
     background-size: cover;
@@ -9,7 +9,7 @@
     right: 0;
     z-index: 1;
     display: block;
-    background-image: url('https://img.freepik.com/free-vector/blue-white-modern-abstract-background_111397-34.jpg?size=626&ext=jpg');
+    background-image: url('https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
     width: 100%;
     height: 100%;
     -webkit-filter: blur(5px);
